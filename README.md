@@ -1,4 +1,4 @@
-<img width="948" height="437" alt="image" src="https://github.com/user-attachments/assets/a958aa59-b693-4d94-a2f2-26b4b26bf5b0" /># 🚀 Multi-Source Candidate Transformer
+# 🚀 Multi-Source Candidate Transformer
 
 A full-stack application that transforms candidate information from multiple sources into a single canonical candidate profile.
 
@@ -28,29 +28,29 @@ This project was developed as part of the **Eightfold Engineering Internship Ass
 
 ## Home Page
 
-![Home](<img width="947" height="433" alt="image" src="https://github.com/user-attachments/assets/16444fb3-5655-4930-99a5-a3b2e731c5ac" />
-)
+![Home]<img width="947" height="433" alt="image" src="https://github.com/user-attachments/assets/16444fb3-5655-4930-99a5-a3b2e731c5ac" />
+
 
 ---
 
 ## Upload Candidate Sources
 
-![Upload](<img width="935" height="206" alt="image" src="https://github.com/user-attachments/assets/34c927f4-e753-4f95-ad6f-0f8d1e4b92fd" />
-)
+![Upload]<img width="935" height="206" alt="image" src="https://github.com/user-attachments/assets/34c927f4-e753-4f95-ad6f-0f8d1e4b92fd" />
+
 
 ---
 
 ## Transformation Summary
 
-![Result](<img width="933" height="398" alt="image" src="https://github.com/user-attachments/assets/ffdebe9a-33b8-4f7e-bb5a-fb0b3ff551da" />
-)
+![Result]<img width="933" height="398" alt="image" src="https://github.com/user-attachments/assets/ffdebe9a-33b8-4f7e-bb5a-fb0b3ff551da" />
+
 
 ---
 
 ## Candidate Profile & Provenance
 
-![Provenance](<img width="933" height="415" alt="image" src="https://github.com/user-attachments/assets/bc4984f5-e104-41fb-90d9-3debb0c858be" />
-)
+![Provenance]<img width="933" height="415" alt="image" src="https://github.com/user-attachments/assets/bc4984f5-e104-41fb-90d9-3debb0c858be" />
+
 
 ---
 
