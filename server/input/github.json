@@ -1,0 +1,10 @@
+{
+  "login": "snehachaudhary",
+  "name": "Sneha Chaudhary",
+  "bio": "Full Stack Developer | MERN | AWS",
+  "email": "SNEHA@gmail.com",
+  "location": "Ghaziabad, India",
+  "skills": ["javascript", "nodejs", "mongodb", "react"],
+  "repos": 15,
+  "profile_url": "https://github.com/snehachaudhary"
+}

@@ -1,0 +1,32 @@
+{
+  "fields": [
+    {
+      "name": "full_name",
+      "path": "full_name"
+    },
+    {
+      "name": "email",
+      "path": "emails.0"
+    },
+    {
+      "name": "phone",
+      "path": "phones.0"
+    },
+    {
+      "name": "headline",
+      "path": "headline"
+    },
+    {
+      "name": "github",
+      "path": "links.github"
+    },
+    {
+      "name": "skills",
+      "path": "skills"
+    },
+    {
+      "name": "confidence",
+      "path": "overall_confidence"
+    }
+  ]
+}
